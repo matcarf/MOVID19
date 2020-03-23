@@ -5,10 +5,6 @@ Mateo Carvajal
 
 ## Descripción Proyecto
 
-Hemos actualizado tu número de cedula con el Nro.:
-A partir de ahora solo tienes envíanos el número del bus cuando te subas. \n Recuerda que siempre tienes la opción de enviar 0 para ir al menú principal.
-¡Gracias! Juntos hacemos el sistema más seguro
-El número del bus es erróneo, por favor corrígelo
 
 Nuestra solución cuenta con un componente de prevención y otro de diagnóstico. Es claro que un solo modelo, o una sola herramienta, no son suficientes para salvarnos de una epidemia.
 
